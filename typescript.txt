@@ -1,0 +1,14 @@
+TypeScript is a development tool, the project still runs in Js.
+First the code written in TS is converted(transpiled) to Js and then compiled
+to do this run the command
+
+tsc filename.ts
+
+
+
+syntax :
+let Variable_name : type = value 
+all types are in lowercase
+
+
+in typescript we dont use int or float we just use number
